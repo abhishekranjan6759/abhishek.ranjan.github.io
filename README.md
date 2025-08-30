@@ -7,7 +7,7 @@ Welcome to my frontend development portfolio! I specialize in building modern, s
 ## 👤 Profile Summary
 
 <!-- Add your professional image here -->
-![Abhishek Ranjan](profile-image.jpg)
+![Abhishek Ranjan]
 
 - **4 years** of professional experience developing React.js applications with Material UI, Redux/Redux-Saga, and KendoReact
 - Specialized in **SSO integration (Okta)**, Chrome extension development, and performance optimization

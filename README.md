@@ -61,7 +61,7 @@ Welcome to my frontend development portfolio! I specialize in building modern, s
 
 **🔗 Live Demo:** [FlexOffers Platform](https://publisherprobeta.flexoffers.com/flexapps/flexlinks)
 
-![FlexOffers Dashboard](./images/flexoffers-dashboard.png)
+![FlexOffers Dashboard](dashboard.jpg)
 
 ---
 
